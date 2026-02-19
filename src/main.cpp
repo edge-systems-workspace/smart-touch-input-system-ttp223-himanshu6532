@@ -20,12 +20,12 @@ void setup() {
 
 void loop() {
     state=digitalRead(touchpin);
-    // if (state==1)
-    // {
-    //     Serial.println("Touched");
-    // }
-    // else
-    // {
-    //     Serial.println("Not Touched");
+    if (state==1)
+    {
+        Serial.println("Touched");
+    }
+    else
+    {
+        Serial.println("Not Touched");
     }
 }
