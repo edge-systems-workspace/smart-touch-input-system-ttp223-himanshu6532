@@ -16,6 +16,7 @@ int state=0;
 void setup() {
     pinMode(touchpin,pinMode:INPUT);
     Serial.begin(9600);
+
 }
 
 void loop() {
