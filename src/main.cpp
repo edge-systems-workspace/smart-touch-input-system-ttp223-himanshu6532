@@ -19,7 +19,7 @@ void setup() {
 }
 
 void loop() {
-    // state=digitalRead(touchpin);
+    state=digitalRead(touchpin);
     // if (state==1)
     // {
     //     Serial.println("Touched");
