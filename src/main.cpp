@@ -2,8 +2,8 @@
 /**
  * @file main.cpp
  * @brief Embedded Touch Detection System using TTP223
- * @author YOUR_NAME
- * @date YYYY-MM-DD
+ * @author himanshu yadav[himanshu6532]
+ * @date 19-01-2006
  *
  * @details
  * Reads digital touch input from TTP223 sensor
